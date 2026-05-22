@@ -1,0 +1,10 @@
+﻿node_modules/
+.env
+attendance-backend/node_modules/
+attendance-frontend/node_modules/
+attendance-backend/.env
+attendance-frontend/.env
+build/
+dist/
+.DS_Store
+.vscode/
